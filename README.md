@@ -1,6 +1,6 @@
 # Brick - Technical Test
 
-This project was deployed by vercell - [Website]().
+This project was deployed by vercell - [Website](https://github-searcher-rafi-p.vercel.app/).
 
 ## Installation
 
@@ -16,4 +16,4 @@ The app will automatically opened in your browser.
 
 ## Features
 
-*
+* Search github by repositories or users
